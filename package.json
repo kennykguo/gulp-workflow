@@ -13,7 +13,12 @@
     "gulp-sass": "^5.1.0"
   },
   "dependencies": {
+    "browser-sync": "^2.29.3",
+    "css": "^3.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-terser": "^2.1.0",
     "gulp-uglifycss": "^1.1.0",
+    "nano": "^10.1.2",
     "sass": "^1.69.5"
   }
 }
